@@ -4,6 +4,6 @@ let data = {
 	homeUrl: "https://adamwulf.me/",
 };
 
-data.avatar = `https://v1.indieweb-avatar.11ty.dev/${encodeURIComponent(data.homeUrl)}/`;
+data.avatar = `https://adamwulf.me/images/profile.png`;
 
 module.exports = data;
